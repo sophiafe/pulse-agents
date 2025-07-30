@@ -1,0 +1,12 @@
+datasets/original_harmonized/*
+datasets/preprocessed_splits/*
+output/*/
+notebooks/*/
+wandb/*
+.vscode/
+*.out
+utils/__pycache__/
+.venv/
+__pycache__/
+*.DS_Store
+src/models/agents/pretrained_models/*.joblib
