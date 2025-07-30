@@ -1,7 +1,7 @@
 <p align="center">
   <img src="docs/pulse_logo.svg" alt="PULSE Logo" width="150"/>
   <img src="docs/eth_logo.svg" alt="ETH Logo" width="150"/>
-  <img src="docs/bmds_logo.png" alt="BMDS Logo" width="100"/>
+  <img src="docs/BMDS_logo.png" alt="BMDS Logo" width="100"/>
 </p>
 
 # PULSE Agents Framework
@@ -223,4 +223,9 @@ Task Definitions are in accordance with YAIB (https://arxiv.org/abs/2306.05109).
    ```
 
 4. add the new model and optional trainer and import to the src/models/\_\_init\_\_.py
+
+
+## Reference: Original PULSE Benchmark
+
+This repository builds upon the original [PULSE framework](https://github.com/j4nberner/pulse/tree/main), which provides a robust benchmark for predictive modeling on ICU time-series data. For details and results, see [github.com/j4nberner/pulse/tree/main](https://github.com/j4nberner/pulse/tree/main).
 
