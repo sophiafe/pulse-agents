@@ -1,7 +1,7 @@
-datasets/original_harmonized/*
+datasets/original_harmonized/*/
 datasets/preprocessed_splits/*
 output/*/
-notebooks/*/
+notebooks/notebook_output/*/
 wandb/*
 .vscode/
 *.out
